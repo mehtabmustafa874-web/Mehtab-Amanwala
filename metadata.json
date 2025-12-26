@@ -1,0 +1,7 @@
+{
+  "name": "LuxeStay - Premium Hotel Booking",
+  "description": "A sophisticated hotel booking platform featuring smart search, detailed listings, and seamless reservation flows with AI-powered travel insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
